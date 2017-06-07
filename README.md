@@ -1,3 +1,5 @@
+This Project is based a repo by "jwood803". The original repo is <a href="https://github.com/jwood803/ElectronSpectronDemo">located here.</a> The sources below were also written by jwood. Thanks jwood 🕺
+
 Spectron demo in Electron
 =========================
 
